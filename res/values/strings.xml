@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voice Translate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus">
+        <item>Translate By Voice</item>
+        <item>Translate By Text</item>
+        <item>Aksara</item>
+        <item>About</item>
+        <item>Info</item>
+        <item>Exit</item>
+    </string-array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="mode_by">Mode Translate :</string>
+    <string name="s_bicara">Speak..</string>
+    <string name="title_activity_trans_voice">TransVoiceActivity</string>
+    <string name="title_activity_trans_text">TransTextActivity</string>
+    <string name="kata_dicari">Kata :</string>
+    <string name="bt_cari">Search</string>
+    <string name="bt_tambah">Add</string>
+    <string name="bt_del">Del</string>
+    <string name="title_activity_add_kamus">Tambah List Kamus</string>
+    <string name="jdul_id">ID :</string>
+    <string name="jdul_hira">JPN (H) :</string>
+    <string name="jdul_kta">JPN (K) :</string>
+    <string name="bt_simpan">Save</string>
+    <string name="bt_selesai">Finish</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Maaf! Hp anda tidak support untuk fitur ini</string>
+    <string name="title_activity_aksara">Aksara</string>
+    <string name="t_terjemah">TERJEMAHAN :</string>
+    <string name="t_aksara">AKSARA :</string>
+
+</resources>

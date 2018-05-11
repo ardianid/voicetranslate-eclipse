@@ -1,0 +1,96 @@
+Huruf Hiragana
+
+Huruf hiragana melambangkan suku kata tunggal, dan digunakan untuk menulis kata-kata yang berasal dari Jepang asli. Huruf Hiragana terbentuk dari modifikasi dan penyederhanaan kanji, sehingga huruf hiragana coretannya melengkung dan tidak bersudut tajam, sehubungan dengan hal tersebut Takebe (1988) menyebutkan bahwa huruf hiragana digunakan mulai jaman Edo, yang pada awal mulanya digunakan oleh kaum wanita sehingga hiragana dikenal dengan huruf wanita, dalam bahasa Jepang disebut onnade. Huruf Hiragana berjumlah 46 huruf di dalamnya mencakup 5 vokal yaitu a i u e o sisanya adalah suku kata dengan deretan ka, sa, ta, na, ha, ma, ya ra, wa dan satu konsonan yaitu n serta satu kata bantu o yang kadangkala diucapkan wo. Asal usul huruf Hiragana dapat kita lihat dalam daftar berikut :
+
+Gambar. 1. Tabel Huruf Hiragana
+
+46 huruf hiragana tersebut di atas disebut sei on, selain itu dalam penggunaannya terdapat dakuon, handakuon dan yoo on Huruf hiragana yang termasuk Sei on adalah sebagai berikut:
+
+-	? ? ? ? ? / a i u e o / 
+-	? ? ? ? ? / ka ki ku ke ko / 
+-	? ? ? ? ? / sa shi su se so / 
+-	? ? ? ? ? / ta chi tsu te to / 
+-	? ? ? ? ? / na ni nu ne no / 
+-	? ? ? ? ? / ha hi fu he ho /
+-	 ? ? ? ? ? / ma mi mu me mo / 
+-	? - ? - ? / ya - yu - yo /
+
+Daku on berjumlah 25 huruf hiragana, yang termasuk di dalamnya adalah sebagai berikut : 
+-	? ? ? ? ? / ga gi gu ge go / 
+-	? ? ? ? ? / za ji zu ze zo /
+-	 ? ? ? ? ? / da ji zu de do / 
+-	? ? ? ? ? / ba bi bu be bo /
+
+Handaku on berjumlah 5 huruf hiragana, yang termasuk di dalamnya adalah sebagai berikut : 
+-	? ? ? ? ? / pa pi pu pe po/
+
+Yoo on berjumlah 36 huruf hiragana, yang termasuk di dalamnya adalah sebagai berikut :
+-	?? ?? ?? / kya kyu kyo / 
+-	?? ?? ?? / sha shu sho / 
+-	?? ?? ?? / cha chu cho /
+-	 ?? ?? ?? / nya nyu nyo / 
+-	?? ?? ?? / hya hyu hyo /
+-	 ?? ?? ?? / mya myu myo / 
+-	?? ?? ?? / rya ryu ryo / 
+-	?? ?? ?? / gya gyu gyo / 
+-	?? ?? ?? / ja ju jo / 
+-	?? ?? ?? / bya byu byo / 
+-	?? ?? ?? / pya pyu pyo /
+
+* Urutan menulis hiragana
+	Sama halnya dengan menulis kanji, dalam menulis huruf Hiragana maupun Katakana, kita harus memperhatikan peraturan urutan menulisnya, dalam menulis huruf Hiragana terdapat 3 urutan penulisannya adalah sebagai berikut : 
+(1). Garis yang ke samping ditulis lebih dahulu dari kiri ke kanan. Contoh : ? ? ? 
+(2) Garis yang ke bawah ditulis lebih dahulu dari atas ke bawah Contoh : ? ? ? 
+(3) Garis yang melengkung ditulis searah dengan jarum jam Contoh : ? ? ?
+
+* Fungsi huruf hiragana
+	Huruf hiragana berfungsi untuk menuliskan :
+(1) bagian dari yoogen (??),yaitu kata kerja, kata sifat – i dan kata sifat na. sebagai okurigana.
+Contoh : 
+???? / yomimasu / „ membaca ?
+?? / aoi / „ biru ? ??? / shizukana / „ sepi ?
+
+(2) joshi (??), yaitu partikel/kata bantu
+Contoh : 
+? ? ??8? ??10? ?? ?? ? ???? /watashi wa maiban hachiji kara juuji made fukushuu o shimasu/ „setiap malam saya mengulang pelajaran dari pukul 20.00 sampai pulul 22.00?
+
+(3) joodoshi (???), yaitu kata kerja bantu
+Contoh : 
+??????? / watashi wa gakusei desu / „saya adalah mahasiswa?
+ ?????????????? / anokata wa sensei dewa arimasen / „ orang itu bukan guru ? 
+?????????????? / ototo wa honya de jijo o kaimashita / „ adik laki-laki membeli kamus di toko buku ?
+
+(4) awalan dan akhiran sebagai penghalus kata (???????)
+Contoh :
+ ??? / o tegami / „ surat ? 
+??? / go ryoushin / „ orang tua ? 
+??? / okusan / ‘ nyonya ’
+
+
+
+
+Huruf Katakana 
+Huruf katakana sama seperti huruf Hiragana yaitu melambangkan suku kata tunggal, tetapi mempunyai fungsi yang berbeda dengan huruf hiragana. Huruf Katakana selain digunakan untuk menulis kata-kata yang berasal dari bahasa asing, juga digunakan untuk penekanan suatu kata yang berasal dari Jepang asli. Huruf Katakana juga terbentuk dari modifikasi kanji dengan cara mengambil salah satu bagian kanji,sehingga di dalam huruf katakana kita tidak akan menemukan coretannya yang melengkung seperti hiragana, katakana bentuk hurufnya terkesan kaku, karena setiap coretannya bersudut tajam sehingga katakana disebut sebagai huruf laki-laki . Huruf Katakana berjumlah 45 huruf, karena dalam di dalam huruf Katakana tidak terdapat huruf o yang berfungsi sebagai kata bantu.
+
+Gambar. 2. Tabel Huruf Katakana
+
+* Fungsi huruf Katakana 
+	Huruf katakana berfungsi untuk menuliskan :
+(1) kata-kata yang berasal dari bahasa asing
+Contoh :
+ ????? / pairotto / „ pilot ?
+
+(2) nama orang dan tempat asing serta kata-kata benda asing
+Contoh : 
+nama orang ??? (Amir) 
+??? (john) 
+nama tempat ?????? ( Indonesia) 
+benda asing ??? ( boat = perahu)
+
+(3) giseigo (???) dan giongo (???) yaitu onomatope
+Contoh : 
+?????????????? / inu wa “wanwan” to nakimasu / „ anjing menggonggong ? 
+??????? / pikapika hikaru / „ bersinar gemerlapan ?
+
+(4) telegram
+???????????? ??????????? /nijuuichi nichi, sanji narita kuukoo ni tsuku / „ Tiba di bandara Narita pada tanggal 21 pukul 15.00 ?

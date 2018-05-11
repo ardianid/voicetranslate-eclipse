@@ -1,0 +1,36 @@
+Voice Translate
+
+Adalah sebuah kamus digital yang dibuat untuk menterjemahkan bahasa dari bahasa Indonesia ke jepang dan sebaliknya,
+adapun kelebihan program ini adalah anda dapat menterjemahkan bahasa tanpa perlu mengetik lagi. Tapi bisa lewat suara
+
+Menu – menu dalam program ini adalah
+
+1.Voice By Text
+ Menu ini adalah menu utama dari program, anda dapat menterjemahkan hanya dengan suara. Carannya ?
+  - Atur metode penerjemahan IDN – JPN (Indonesia ke jepang), atau JPN – IND (jepang ke Indonesia)
+  - Setelah itu klik tombol “Speak…”, ucapkan kata yang ingin dicari
+  - Setelah itu akan muncul kata yang dicari dibawahnya
+
+2.Voice By Text
+ Menu ini adalah menu untuk menterjemahkan bahasa seperti pada program – program lainnya,
+ anda bisa mengetikkan kata yang anda cari. Caranya ?
+ a. Mencari kata yang ada didalam database
+  - Atur metode penerjemahan seperti diatas
+  - Ketik katang yang dicari dibagian “kata” dibawahnya
+  - Klik tombol “search”, apabila ditemukan maka akan muncul dibagian bawahnya
+ b. Menambah daftar bahasa
+   o Klik tombol “add” dibagian kanan bawah
+   o Setelah jendela muncul, ketik bahasa Indonesia dikolom “ID”
+   o Ketikkan bahasa jepang (Hiragana) dikolom “JPN (H)
+   o Ketikkan bahasa jepang (Katana) dikolom “JPN (K)”
+   o Klik tombol save
+   o Apabila anda sudah selesai, klik tombol finish
+
+3.About
+Adalah halamanan ini yang menerangkan apa itu “Voice translate” dan cara penggunanaanya
+
+4.Info
+Menu pembuat program
+
+
+Terima Kasih..  ):
